@@ -1,5 +1,5 @@
 {
-  "name": "formatter",
+  "name": "lax_formatter",
   "version": "1.0.0",
   "description": "Numerical Formator",
   "main": "index.js",
