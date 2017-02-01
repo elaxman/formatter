@@ -1,0 +1,26 @@
+{
+  "name": "formatter",
+  "version": "1.0.0",
+  "description": "Numerical Formator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "nodes": ">=4.2.4"
+  },
+  "author": "Lakshman Ekambaram <elaxman@yahoo.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elaxman/formatter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elaxman/formatter/issues"
+  },
+  "homepage": "https://github.com/elaxman/formatter#readme"
+}
